@@ -1,0 +1,13 @@
+[EN]
+To run the program, you need to specify one parameter, which is the address of the host you need to check.
+In command line:
+python main.py http://example.com
+or just add http://example.com as a parameter in your Python IDE.
+The result are printed, but also saved to "log.txt" file.
+
+[PL]
+Aby uruchomić program, należy sprecyzować jeden parametr uruchamiania, którym jest adres hosta do sprawdzenia.
+W wierszu poleceń:
+python main.py http://example.com
+lub dodać http://example.com jako parametr uruchamiania w IDE Pythona.
+Wyniki są wyświetlane w konsoli, a także zapisywane w pliku "log.txt".
